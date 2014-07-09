@@ -5,9 +5,7 @@ Put this together as to work with large sets of JSON object trees, to solve the
 problem of merging together of multiple JSON objects that could contain any
 number of sub-objects and lists. So it recurses through the trees merging them
 together. It also supports deep-copy functionality and limited lookup. See
-godoc for more.
-
-Add godoc.org link here.
+[godoc](http://godoc.org/github.com/eikenb/datatree) for more.
 
 I don't use this for anything at present but would welcome patches if others
 did. Alternatively please feel free to copy/fork/clone whatever and do what
