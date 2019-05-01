@@ -1,3 +1,10 @@
+If you need something like this you might want to look at
+[mergo](https://github.com/imdario/mergo). It is a library dedicated to
+managing merging structs/maps and is widely used and actively maintained.
+
+I'm going to leave this as an example, just in case it is useful to anyone.
+
+
 Interface{} tree merging and copying utilities
 ----------------------------------------------
 
